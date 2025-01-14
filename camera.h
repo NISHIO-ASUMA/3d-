@@ -49,5 +49,4 @@ void UpdateCamera(void);	// カメラの更新
 void SetCamera(void);		// カメラの設定
 Camera* GetCamera();		// カメラの取得
 void StickCamera(void);		// 右スティックのカメラ処理
-
 #endif
