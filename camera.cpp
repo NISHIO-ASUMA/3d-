@@ -78,7 +78,7 @@ void UpdateCamera(void)
 {
 	// プレイヤーを取得
 	//PLAYER* pPlayer = GetPlayer();
-
+	int n = 0;
 	// カメラの右スティック
 	StickCamera();
 #if 0
